@@ -43,7 +43,7 @@ comments: true
 breadcrumb: true
 show_meta: false
 meta_title:             # SEO: Overwrites title in <head> if needed
-meta_description:
+meta_description: A website to present the Oviduct-Sperm virtual reallity project.
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 callforaction:
