@@ -17,13 +17,13 @@ widget2:
   title: "Demonstration 1"
 #  url: 'http://phlow.github.io/feeling-responsive/info/'
   image: demo1_btn.jpg
-  text: '<em>OviductVR</em> is heavily interactive.<br/>1. Educational<br/>2. Virtual Reality.<br/>3. Immersive experience.'
+  text: '<em>FertilizationVR</em> is heavily interactive.<br/>1. Educational<br/>2. Virtual Reality.<br/>3. Immersive experience.'
   video: '<a href="#" data-reveal-id="videoModal2"><img src="http://cmoralesmx.github.io/FertilizationVR_web/images/demo1_btn.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Demonstration 2"
 #  url: 'https://github.com/Phlow/feeling-responsive'
   image: demo2_btn.jpg
-  text: '<em>OviductVR</em> is developed in-house using proven technologies. We build up on the expert knowledge of world-leading researchers in the field of Fertility and Simulation.'
+  text: '<em>FertilizationVR</em> is developed in-house using proven technologies. We build up on the expert knowledge of world-leading researchers in the field of Fertility and Simulation.'
   video: '<a href="#" data-reveal-id="videoModal3"><img src="http://cmoralesmx.github.io/FertilizationVR_web/images/demo2_btn.jpg" width="302" height="182" alt=""/></a>'
 #
 # Use the call for action to show a button on the frontpage
