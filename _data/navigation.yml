@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: Sex in 3 Cities
+  url: "/sex-in-3-cities/"
+  side: left
+
 - title: "Contact"
   url: "/contact/"
   side: right
