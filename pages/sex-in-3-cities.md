@@ -21,7 +21,7 @@ A sumary of the feedback received at the different venues follows.
 |---|---|
 |Participants| 12|
 |Students| 7|
-|Lecturers\Researchers| 5|
+|Lecturers/Researchers| 5|
 |Useful as a teaching tool| 5|
 |Experienced severe motion sickness| 0|
 |Experienced moderate motion sickness| 5|
@@ -45,7 +45,7 @@ A sumary of the feedback received at the different venues follows.
 |---|---|
 |Participants| 13|
 |Students| 10|
-|Lecturers\Researchers| 3|
+|Lecturers/Researchers| 3|
 |Useful as a teaching tool| 3|
 |Experienced severe motion sickness| 0|
 |Experienced moderate motion sickness| 2|
@@ -64,7 +64,7 @@ A sumary of the feedback received at the different venues follows.
 |---|---|
 |Participants| -|
 |Students| -|
-|Lecturers\Researchers| -|
+|Lecturers/Researchers| -|
 |Useful as a teaching tool| -|
 |Experienced severe motion sickness| -|
 |Experienced moderate motion sickness| -|
@@ -72,7 +72,7 @@ A sumary of the feedback received at the different venues follows.
 
 ### Extra features they would like to see 
 
-
+...
 
 ---
 We thank the organizers for their invitation. We also thank the local facilitators for supporting our activities at the venues.
