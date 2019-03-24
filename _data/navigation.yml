@@ -2,8 +2,12 @@
   url: "/"
   side: left
 
-- title: Sex in 3 Cities
-  url: "/sex-in-3-cities/"
+  #- title: Sex in 3 Cities
+  #url: "/sex-in-3-cities/"
+  #side: left
+
+- title: Sex in 3 Cities 2019
+  url: "/sex-in-3-cities-2019/"
   side: left
 
 - title: "Contact"

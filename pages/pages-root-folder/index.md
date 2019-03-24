@@ -7,25 +7,28 @@
 layout: frontpage
 header:
   image_fullwidth: FertilizationVR_header.jpg
+
 widget1:
   title: "Promo Video"
 #  url: 'http://phlow.github.io/feeling-responsive/blog/'
 #  image: promo_btn.jpg 
   text: 'Our promotional video presenting a user experiencing the fertilization process at the cell-level scale in virtual reallity.'
   video: '<a href="#" data-reveal-id="videoModal1"><img src="http://cmoralesmx.github.io/FertilizationVR_web/images/promo_btn.jpg" width="302" height="182" alt=""/></a>'
+
 widget2:
   title: "Demonstration 1"
 #  url: 'http://phlow.github.io/feeling-responsive/info/'
   image: demo1_btn.jpg
   text: '<em>FertilizationVR</em> is heavily interactive.<br/>1. Educational<br/>2. Virtual Reality.<br/>3. Immersive experience.'
   video: '<a href="#" data-reveal-id="videoModal2"><img src="http://cmoralesmx.github.io/FertilizationVR_web/images/demo1_btn.jpg" width="302" height="182" alt=""/></a>'
+
 widget3:
   title: "Demonstration 2"
 #  url: 'https://github.com/Phlow/feeling-responsive'
   image: demo2_btn.jpg
   text: '<em>FertilizationVR</em> is developed in-house using proven technologies. We build up on the expert knowledge of world-leading researchers in the field of Fertility and Simulation.'
   video: '<a href="#" data-reveal-id="videoModal3"><img src="http://cmoralesmx.github.io/FertilizationVR_web/images/demo2_btn.jpg" width="302" height="182" alt=""/></a>'
-#
+
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
@@ -35,7 +38,7 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction: 
+callforaction:
   url: /contact
   text: Get in contact to request more information ›
   style: alert

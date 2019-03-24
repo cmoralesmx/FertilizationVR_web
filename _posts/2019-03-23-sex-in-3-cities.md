@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
-subheadline: "We were present at the"
-title: "Sex in 3 Cities Conferences v2"
+subheadline: "We were present at the conferences"
+title: "Sex in 3 Cities 2019"
 teaser: "We were invited to demonstrate the virtual reality aplication at this series of conferences taking place at London, Nottingham, and Edinburgh." 
-permalink: "/sex-in-3-cities-v2/"
+permalink: "/sex-in-3-cities-2019/"
 header: 
     image_fullwidth: "FertilizationVR_header.jpg"
 image:
