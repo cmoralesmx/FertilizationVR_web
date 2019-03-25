@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-subheadline: "We were present at the conferences"
+subheadline: "We were present at the public lectures"
 title: "Sex in 3 Cities 2019"
-teaser: "We were invited to demonstrate the virtual reality aplication at this series of conferences taking place at London, Nottingham, and Edinburgh." 
+teaser: "We were invited to demonstrate the virtual reality aplication at this series of public lectures taking place at London, Nottingham, and Edinburgh." 
 permalink: "/sex-in-3-cities-2019/"
 header: 
     image_fullwidth: "FertilizationVR_header.jpg"
@@ -38,9 +38,6 @@ The following table shows the stats gathered at this venue.
 |Participants| 12|
 |Students| 7|
 |Lecturers/Researchers| 5|
-|Useful as a teaching tool| 5|
-|Experienced severe motion sickness| 0|
-|Experienced moderate motion sickness| 5|
 
 
 ### Extra features they would like to see 
@@ -48,7 +45,7 @@ The following table shows the stats gathered at this venue.
 - Sign post the way to the ampulla 
 - Label the entrance to the sections 
 - A voice-over explaining what the user is seeing 
-- Add a highly visual and dynamic visual response when the user meets (fertilizes) the egg  
+- Add a highly visual (and dynamic) response when the user meets (fertilizes) the egg  
 - Make it a race agains other participants  
 
 
@@ -67,9 +64,6 @@ The following table shows the stats gathered at this venue.
 |Participants| 13|
 |Students| 10|
 |Lecturers/Researchers| 3|
-|Useful as a teaching tool| 3|
-|Experienced severe motion sickness| 0|
-|Experienced moderate motion sickness| 2|
 
 
 ### Extra features they would like to see 
